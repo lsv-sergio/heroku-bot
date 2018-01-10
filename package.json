@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lsv-sergio/heroku-bot#readme",
   "dependencies": {
+    "botbuilder": "^3.13.1",
     "express": "^4.16.2"
   }
 }
