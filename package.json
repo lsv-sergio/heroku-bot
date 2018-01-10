@@ -1,0 +1,27 @@
+{
+  "name": "heroku-bot",
+  "version": "1.0.0",
+  "description": "Test Node.JS bot by Microsoft bot framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsv-sergio/heroku-bot.git"
+  },
+  "keywords": [
+    "heroku",
+    "bot",
+    "nodejs"
+  ],
+  "author": "lsv.sergio@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsv-sergio/heroku-bot/issues"
+  },
+  "homepage": "https://github.com/lsv-sergio/heroku-bot#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
